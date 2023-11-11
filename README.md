@@ -10,3 +10,4 @@ Probably more; I regret not taking notes as I went along!
 Learned a lot on this challenge and quite enjoyed it.
 :)
 
+Link to deployed site: https://blooshroo.github.io/Horiseon-webpage-refactor-challenge/
